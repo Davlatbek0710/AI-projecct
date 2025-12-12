@@ -86,7 +86,7 @@ ollama/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Davlatbek0710/AI-projecct.git>
+   git clone <repository-url>
    cd ollama
    ```
 
@@ -319,4 +319,3 @@ For questions or support, please open an issue in the repository.
 ---
 
 **Made with ❤️ using AI and combinatorial optimization**
-
